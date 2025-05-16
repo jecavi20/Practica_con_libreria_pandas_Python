@@ -1,4 +1,4 @@
-# Practica_con_libreria_pandas_Python
+# Practica_con_libreria_pandas_Python_Alura_Latam
 Practica básica con la librería Pandas con un archivo csv en Google Drive
 
 ## 🛠️ Herramientas utilizadas:
